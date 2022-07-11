@@ -1,8 +1,8 @@
 bot=Client(
     "Sample Bot",
-    api_id = int(os.environ["API_ID"]),
-    api_hash = os.environ["API_HASH"],
-    bot_token = os.environ["BOT_TOKEN"]
+    api_id = 17586299
+    api_hash = d3438b8f8cfff705c7cd1eb0ee0053dc
+    bot_token = 5374270506:AAHr5M4wbDdY8RX_zNJStGejS6fv1IxRbrI
 )
 
 @bot.on_message(filter.command("start"))
