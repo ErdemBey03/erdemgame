@@ -1,13 +1,14 @@
+{
 "name": "ERDEM TAGGER",
 "description": "burh",
 "repository": "nurjj"
     "env": {
       
-      }
+      },
 
   "buildpacks": [
     {
     "url": "heroku/python"
       }
     ]
-    
+    }
