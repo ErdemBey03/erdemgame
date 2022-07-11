@@ -1,6 +1,13 @@
 "name": "ERDEM TAGGER",
 "description": "burh",
 "repository": "nurjj"
+    "env": {
+      
+      },
 
-  "buildpacks": {
+  "buildpacks": [
+    {
+    "url': "heroku/oython"
+      }
+    ]
     
