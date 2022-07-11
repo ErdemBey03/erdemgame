@@ -3,9 +3,9 @@ const config = require("./config")
 const telegram = new Telegram(config.token)
 const bot = new Telegraf(config.token)
 
-bot.command("start") (ctx) => {
+bot.command("start", (ctx) => {
  ctx.telegram.sendMessage(ctx.chat.id"İ LOVE YOU BRO")
-  }
+  })
 
 
 
