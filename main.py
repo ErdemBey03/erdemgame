@@ -8,3 +8,6 @@ bot=Client(
 @bot.on_message(filter.command("start"))
 async def start(client, message)
 await bot.send_message("BURUH")
+
+
+bot.run()
