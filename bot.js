@@ -1,2 +1,3 @@
-const { Telegraf,Telegram } require('./config')
-const config = 
+const { Telegraf,Telegram } require('Telegraf')
+const config = require('./config')
+const telegram = new Telegrsm
