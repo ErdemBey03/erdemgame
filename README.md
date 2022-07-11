@@ -1,6 +1,10 @@
-### OKTETO KURUM BAŞLANGIÇ
 
-[OKTETO DEPLOY CLİCK HERE📢](https://cloud.okteto.com/deploy?repository=https://github.com/ErdemBey03/erdemgame)
 
-### OKTETO KURULUM SON
+
+### HEROKU DEPLOY
+[CLİCK](https://heroku.com/deploy?template=https://github.com/Erdembey03/erdemgame)
+
+
+
+
 HAYATINIZIN EN EĞLENCELİ ANINDA...:)
