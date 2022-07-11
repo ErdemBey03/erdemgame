@@ -4,7 +4,7 @@ const telegram = new Telegram(config.token)
 const bot = new Telegraf(config.token)
 
 bot.command("start", (ctx) => {
- ctx.telegram.sendMessage(ctx.chat.id"İ LOVE YOU BRO")
+ ctx.telegram.sendMessage(ctx.chat.id,''İ LOVE YOU BRO')
   })
 
 
