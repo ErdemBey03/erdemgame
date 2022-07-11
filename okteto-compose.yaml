@@ -3,6 +3,6 @@ services:
   worker:
     build: /app
     environment:
-   API_ID={$API_ID}
-   API_HASH={$API_HASH}
-   BOT_TOKEN={$BOT_TOKEN}
+      - API_ID=${API_ID}
+      - API_HASH=${API_HASH}
+      - BOT_TOKEN=${BOT_TOKEN}
