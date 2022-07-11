@@ -1,0 +1,2 @@
+# erdemgame
+HAYATINIZIN EN EĞLENCELİ ANINDA...:)
