@@ -3,7 +3,7 @@
 "repository": "nurjj"
     "env": {
       
-      },
+      }
 
   "buildpacks": [
     {
